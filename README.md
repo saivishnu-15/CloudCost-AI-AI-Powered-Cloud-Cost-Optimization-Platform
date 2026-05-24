@@ -103,7 +103,6 @@ git clone https://github.com/your-username/cloudcost-ai.git
 Backend Setup
 cd backend
 
-pip install -r requirements.txt
 python -m uvicorn main:app --reload
 
 http://127.0.0.1:8000
