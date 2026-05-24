@@ -98,7 +98,7 @@ cloud_cost_ai/
 
 Installation & Setup
 1️⃣ Clone Repository
-git clone https://github.com/your-username/cloudcost-ai.git
+git clone https://github.com/saivishnu-15/CloudCost-AI-AI-Powered-Cloud-Cost-Optimization-Platform
 
 Backend Setup
 cd backend
